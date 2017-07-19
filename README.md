@@ -8,7 +8,7 @@ A diferencia de angular-cli ,esta libreria puede generar un Modulo con sus respe
  ## Installation
  
  ```sh
- npm install -g angugen
+ npm install -g angularx-generator
  ```
  
  ## Modo de Uso
